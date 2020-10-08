@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParkingLot()
+comment1.params=spaces
+comment1.target=ParkingLot(int)
+comment2.params=c
+comment2.target=void\ arrival(Vehicle)
+comment3.params=
+comment3.target=void\ departures()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
